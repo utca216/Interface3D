@@ -1,6 +1,6 @@
-###Result screenshots
+# Result screenshots
 ![image](https://github.com/user-attachments/assets/87866ea5-d4f9-4b68-9014-e78a15d19d98)
-###Polymorphysm usage
+# Polymorphysm usage
 I created Shape3DInterface and three classes that implementing that interface. Shape3DInterface contains 2 methods.
 
 ![image](https://github.com/user-attachments/assets/9381a727-b3e7-43f0-b712-bebf68a627aa)
